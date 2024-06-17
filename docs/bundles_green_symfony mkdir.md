@@ -6,18 +6,18 @@ Copy down this string
 /bundles/
 ```
 
-And create the `%kernel.project_dir%/bundles/green-symfony/` directories by execution:
+And create the `%kernel.project_dir%/bundles/grin-symfony/` directories by execution:
 
 ```console
 cd "YOUR_PROJECT_PATH"
 ```
 
 ```console
-mkdir "./bundles/green-symfony" -p
+mkdir "./bundles/grin-symfony" -p
 ```
 
 ```console
-cd "./bundles/green-symfony"
+cd "./bundles/grin-symfony"
 ```
 
 Go on with the following instructions on the previous page.

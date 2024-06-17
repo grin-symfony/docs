@@ -1,4 +1,4 @@
-cd "./bundles/green-symfony"
+cd "./bundles/grin-symfony"
 cd "./command-bundle"
 git pull
 cd ".."

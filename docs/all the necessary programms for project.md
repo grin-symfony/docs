@@ -1,5 +1,5 @@
 For your project you should install the following:
-1. [php](https://github.com/green-symfony/docs/blob/main/docs/php%20installation.md)
+1. [php](https://github.com/grin-symfony/docs/blob/main/docs/php%20installation.md)
 1. [composer](https://getcomposer.org/download/)
 1. [git_bash](https://git-scm.com/downloads)
 
