@@ -7,17 +7,17 @@ REP_REMOTE_NAME="origin"
 BUNDLE_NAMESPACE="grin-symfony"
 
 ###> BUNDLES ###
-BUNDLE_NAMES[0]="command-bundle"
-BUNDLE_VERSIONS[0]="v1"
+BUNDLE_NAMES[0]="env-processor-bundle"
+BUNDLE_VERSIONS[0]="main"
 
-BUNDLE_NAMES[1]="env-processor-bundle"
-BUNDLE_VERSIONS[1]="v1"
+BUNDLE_NAMES[1]="service-bundle"
+BUNDLE_VERSIONS[1]="main"
 
-BUNDLE_NAMES[2]="service-bundle"
-BUNDLE_VERSIONS[2]="v2"
+BUNDLE_NAMES[2]="command-bundle"
+BUNDLE_VERSIONS[2]="main"
 
 BUNDLE_NAMES[3]="web-app-bundle"
-BUNDLE_VERSIONS[3]="v1"
+BUNDLE_VERSIONS[3]="main"
 
 BUNDLE_FULL_NAME[0]="${BUNDLE_NAMESPACE}/${BUNDLE_NAMES[0]}"
 BUNDLE_FULL_NAME[1]="${BUNDLE_NAMESPACE}/${BUNDLE_NAMES[1]}"
