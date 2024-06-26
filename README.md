@@ -13,7 +13,7 @@ git clone "https://github.com/grin-symfony/docs.git"
 For Symfony Applicatins
 ------
 
-### `grin-symfony` bundles installator helper
+# `grin-symfony` bundles installator helper
 
 Execute in your `%kernel.project_dir%`:
 
@@ -39,3 +39,7 @@ Alternatively, do the same:
 ```console
 ./init.sh
 ```
+
+# You can also borrow various sections of the `ROOT/git/.gitignore` file
+
+For instance to safe `%kernel.project_dir%/vendor/symfony/http-kernel/Kernel.php` for Kernel::build()
